@@ -1,8 +1,8 @@
-# pagespool
+# Pagespool
 
 **Seven open-source document engines behind one API key: Docling, MarkItDown, WeasyPrint, veraPDF, Gotenberg, OCRmyPDF, EPUBCheck.**
 
-pagespool hosts seven open-source document engines under their own names: Docling, MarkItDown, WeasyPrint, veraPDF, Gotenberg, OCRmyPDF and EPUBCheck. Each engine has its own REST API, MCP server and free tool, and one API key and one credit balance pay for all seven. Docling, veraPDF and Gotenberg answer on their own routes, so their clients work with a new base URL. The servers are in Germany. The free plan has 100 credits a month and needs no card.
+Pagespool hosts seven open-source document engines under their own names: Docling, MarkItDown, WeasyPrint, veraPDF, Gotenberg, OCRmyPDF and EPUBCheck. Each engine has its own REST API, MCP server and free tool, and one API key and one credit balance pay for all seven. Docling, veraPDF and Gotenberg answer on their own routes, so their clients work with a new base URL. The servers are in Germany. The free plan has 100 credits a month and needs no card.
 
 ## Use it from
 
@@ -13,13 +13,13 @@ asks you to sign in; an API key in the `X-API-Key` header works instead.
 
 | Server | Endpoint |
 |---|---|
-| Docling by pagespool | `https://api.pagespool.com/mcp/docling/` |
-| MarkItDown by pagespool | `https://api.pagespool.com/mcp/markitdown/` |
-| WeasyPrint by pagespool | `https://api.pagespool.com/mcp/weasyprint/` |
-| veraPDF by pagespool | `https://api.pagespool.com/mcp/verapdf/` |
-| Gotenberg by pagespool | `https://api.pagespool.com/mcp/gotenberg/` |
-| OCRmyPDF by pagespool | `https://api.pagespool.com/mcp/ocrmypdf/` |
-| EPUBCheck by pagespool | `https://api.pagespool.com/mcp/epubcheck/` |
+| Docling by Pagespool | `https://api.pagespool.com/mcp/docling/` |
+| MarkItDown by Pagespool | `https://api.pagespool.com/mcp/markitdown/` |
+| WeasyPrint by Pagespool | `https://api.pagespool.com/mcp/weasyprint/` |
+| veraPDF by Pagespool | `https://api.pagespool.com/mcp/verapdf/` |
+| Gotenberg by Pagespool | `https://api.pagespool.com/mcp/gotenberg/` |
+| OCRmyPDF by Pagespool | `https://api.pagespool.com/mcp/ocrmypdf/` |
+| EPUBCheck by Pagespool | `https://api.pagespool.com/mcp/epubcheck/` |
 
 Claude Code, one server:
 
